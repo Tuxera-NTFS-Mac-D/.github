@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center"><img src="https://www.insanelymac.com/blog/wp-content/uploads/2022/07/Tuxera-NTFS-for-system.jpg" alt="Tuxera NTFS — NTFS read-write driver for macOS" width="780"/></p>
+<p align="center"><img src="https://i0.wp.com/www.alexwhittemore.com/wp-content/uploads/2018/08/Tuxera-UI.png?resize=2790%2C984&ssl=1" alt="Tuxera NTFS — NTFS read-write driver for macOS" width="780"/></p>
 
 ---
 
